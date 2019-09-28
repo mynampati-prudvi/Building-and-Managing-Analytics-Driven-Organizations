@@ -1,2 +1,2 @@
 # Building-and-Managing-Analytics-Driven-Organizations
-Demonstrated the use of analytics in a pseudo company to tackle a situation 
+Demonstrated the use of analytics in a pseudo company to tackle a situation Focued on the processes and skills necessary for gaining business understanding, conducting business discovery, and developing an analytical project plan
